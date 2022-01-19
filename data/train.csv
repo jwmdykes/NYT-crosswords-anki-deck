@@ -1,0 +1,181 @@
+date,time,question,response,answer,was_correct,clues_row
+2022:01:19,11:26:32,Amazonas and others,gods,RIOS,False,56973
+2022:01:19,11:27:22,Bucko,,MAC,False,21915
+2022:01:19,11:28:03,Eight days after the nones, in ancient Rome,,IDES,False,7847
+2022:01:19,11:28:16,6 on a telephone,mid,MNO,False,48524
+2022:01:19,11:32:06,*1984 Patrick Swayze film set in the cold war,,RED DAWN,False,87974
+2022:01:19,11:32:22,Children's writer R,,STINE,False,50116
+2022:01:19,11:33:21,Type-A friend from "Friends",,MONICA,False,58575
+2022:01:19,11:33:28,Basis of many positive IDs,,DNA,False,5404
+2022:01:19,11:33:35,Outcast,,LEPER,False,46130
+2022:01:19,11:33:44,___ rock,camp,ACID,False,25875
+2022:01:19,11:33:53,Classic muscle car,,GTO,False,18484
+2022:01:19,11:34:18,"..,dot,DEO,False,29977
+2022:01:19,11:34:29,Rapper who hosted MTV's "Pimp My Ride",,XZIBIT,False,91485
+2022:01:19,11:34:36,Queen of Thebes, in myth,,INO,False,37442
+2022:01:19,11:34:48,Woman with many fans?,,GEISHA,False,56760
+2022:01:19,11:34:57,Wave creator,moon,SINE,False,24714
+2022:01:19,11:35:07,Carbohydrate suffix,,-OSE,False,23772
+2022:01:19,11:35:19,Toy dog, briefly,,PEKE,False,80476
+2022:01:19,11:35:30,Protein-rich food,meat,TOFU,False,26098
+2022:01:19,11:35:36,Environs,,AREA,False,19069
+2022:01:19,11:35:43,Yeti and the Loch Ness monster,,MYTHS,False,71831
+2022:01:19,11:35:57,Symbol of Aphrodite,,ROSE,False,19490
+2022:01:19,11:36:09,Producer of a hair-raising experience?,,ROGAINE,False,74760
+2022:01:19,11:36:20,Intermediate level in karate,yellowbelt,GREEN BELT,False,71626
+2022:01:19,11:36:27,Most populous of the United Arab Emirates,dubai,DUBAI,True,57356
+2022:01:19,11:36:39,1880s-'90s veep ___ P,,LEVI,False,17615
+2022:01:19,11:36:44,Flower whose name means "rainbow",,IRIS,False,4540
+2022:01:19,11:36:58,Chili ingredients,,BEANS,False,52017
+2022:01:19,11:37:15,D-E-A-D dead,,KAPUT,False,45506
+2022:01:19,11:37:24,"The Time Machine" people,,ELOI,False,8002
+2022:01:19,11:37:29,Home of Broken Arrow and Broken Bow: Abbr.,,OKLA,False,49233
+2022:01:19,11:38:38,Symbol of elasticity, in economics,,ETA,False,200
+2022:01:19,11:38:46,Biblical garden,eden,EDEN,True,965
+2022:01:19,11:39:03,Composer of music "as ignorable as it is interesting",,ENO,False,522
+2022:01:19,12:21:49,Miscellany,,ANA,False,713
+2022:01:19,12:22:10,Maiden name preceder,mrs,NEE,False,901
+2022:01:19,12:22:20,It separates two names,,NEE,False,838
+2022:01:19,12:22:32,Victorian ___,era,ERA,True,364
+2022:01:19,12:22:43,___ Prairie, Minn,siou,EDEN,False,825
+2022:01:19,12:22:49,Staple for sketches, for short,,SNL,False,819
+2022:01:19,12:22:52,QB Manning,,ELI,False,157
+2022:01:19,12:22:58,"Float like a butterfly, sting like a bee" boxer,ali,ALI,True,66
+2022:01:19,12:23:08,Buffalo's county or lake,,ERIE,False,263
+2022:01:19,12:23:52,Cardinals, in stats,,ARI,False,805
+2022:01:19,12:24:09,___ Gold, agent on "Entourage",,ARI,False,598
+2022:01:19,12:24:17,NBC offering, briefly,,SNL,False,670
+2022:01:19,12:24:24,Janis Ian, Billy Preston and George Carlin were its first guests,snl,SNL,True,611
+2022:01:19,12:24:35,Glass of public radio,,IRA,False,451
+2022:01:19,12:25:07,Often rolled-over investment, for short,,IRA,False,414
+2022:01:19,12:25:44,Site of the first human sin,eden,EDEN,True,887
+2022:01:19,12:25:52,D-backs, on scoreboards,,ARI,False,686
+2022:01:19,12:26:38,Mrs,she,ARI,False,659
+2022:01:19,12:27:17,Sistine Chapel painting setting,eden,EDEN,True,940
+2022:01:19,12:27:24,Lighter of the Olympic flame in Atlanta,,ALI,False,4
+2022:01:19,12:27:30,Prohibition, e.g,,ERA,False,354
+2022:01:19,12:27:55,Golf's Big Easy,,ELS,False,852
+2022:01:19,12:28:13,H,,ETA,False,188
+2022:01:19,12:28:17,Late boxing great,ali,ALI,True,93
+2022:01:19,12:28:30,Good thing to keep low on a diamond,crt,ERA,False,335
+2022:01:19,12:28:37,Site of the first human sin,eden,EDEN,True,887
+2022:01:19,12:28:42,QB Manning,eli,ELI,True,157
+2022:01:19,12:28:48,Buffalo's county,erie,ERIE,True,297
+2022:01:19,12:28:51,Louisville's Muhammad ___ Center,ali,ALI,True,53
+2022:01:19,12:28:56,Greek love god,eros,EROS,True,997
+2022:01:19,12:28:58,Music producer Brian,,ENO,False,478
+2022:01:19,12:29:01,Brian who's a self-professed "nonmusician",eno,ENO,True,500
+2022:01:19,12:29:08,Subject of a museum in Louisville, Ky,,ALI,False,80
+2022:01:19,12:29:16,Iraq's Imam ___ Air Base,,ALI,False,56
+2022:01:19,12:29:28,Henry Purcell's "Dido's Lament," e.g,,ARIA,False,812
+2022:01:19,12:29:38,The Gem City, so-called because of its sparkling lake,,ERIE,False,323
+2022:01:19,12:29:43,Christian ___,,ERA,False,348
+2022:01:19,12:29:53,Bordeaux toasting time,,ETE,False,578
+2022:01:19,12:30:00,NBC show since '75,snl,SNL,True,711
+2022:01:19,12:30:06,It has many famous alums,,SNL,False,734
+2022:01:19,12:30:10,Savings for one's later years, for short,,IRA,False,396
+2022:01:19,12:30:20,Stat for Seaver or Santana,,ERA,False,337
+2022:01:19,12:30:25,Ivanovic of women's tennis,iva,ANA,False,793
+2022:01:19,12:30:29,Tennis's Ivanovic,ana,ANA,True,717
+2022:01:19,12:30:46,2001 Will Smith biopic,iam,ALI,False,45
+2022:01:19,12:30:54,Center of excellence?,ali,ELS,False,954
+2022:01:19,12:31:27,Word in many a woman's bio,she,NEE,False,934
+2022:01:19,12:31:33,Presenter of many a spoof, for short,con,SNL,False,742
+2022:01:19,12:31:38,___ alum,snl,SNL,True,782
+2022:01:19,12:31:43,New York canal,,ERIE,False,299
+2022:01:19,12:31:51,Chi-town rails,,ELS,False,836
+2022:01:19,12:31:57,Boxing's "Louisville Lip",ali,ALI,True,95
+2022:01:19,12:32:34,Follower of Johnson or Kennedy,jfk,ERA,False,370
+2022:01:19,12:32:41,Film director Roth,,ELI,False,112
+2022:01:19,12:32:48,"Ugly Betty" actress Ortiz,ana,ANA,True,621
+2022:01:19,12:32:52,"___ Digital Shorts",,SNL,False,613
+2022:01:19,12:32:59,Bush press secretary Fleischer,ana,ARI,False,768
+2022:01:19,12:33:11,A good one is under 3.00, in brief,era,ERA,True,378
+2022:01:19,12:33:18,Loop takers,,ELS,False,925
+2022:01:19,12:33:35,U.S,,ALI,False,89
+2022:01:19,12:33:40,Football's Manning,eli,ELI,True,110
+2022:01:19,12:33:54,Verano, across the Pyrenees,,ETE,False,552
+2022:01:19,12:33:59,Original sin locale,,EDEN,False,913
+2022:01:19,12:34:12,Maiden name indicator,nee,NEE,True,987
+2022:01:19,12:34:21,Sir Anthony formerly of 10 Downing Street,,EDEN,False,830
+2022:01:19,12:34:35,Never-ratified women-related measure, for short,nee,ERA,False,331
+2022:01:19,12:34:42,It's H-shaped,eta,ETA,True,201
+2022:01:19,12:34:48,Locale painted on the Sistine Chapel ceiling,eden,EDEN,True,968
+2022:01:19,12:35:00,Dijon toasting time?,,ETE,False,536
+2022:01:19,12:35:06,Once called,,NEE,False,935
+2022:01:19,12:35:19,Santa ___, Calif,fei,ANA,False,751
+2022:01:19,12:35:29,When a flight is due in, for short,eta,ETA,True,224
+2022:01:19,12:35:32,Site for a famed garden,eden,EDEN,True,970
+2022:01:19,12:35:38,Cy Young Award consideration,era,ERA,True,371
+2022:01:19,12:35:45,Rock producer Brian,eno,ENO,True,485
+2022:01:19,12:35:57,Good fig,,ERA,False,342
+2022:01:19,12:36:12,Philanthropist/art collector ___ Broad,,ELI,False,106
+2022:01:19,12:36:25,Name connector,nee,NEE,True,858
+2022:01:19,12:36:53,Talent agent ___ Emanuel,eli,ARI,False,597
+2022:01:19,12:37:01,Silent ___,eta,ERA,False,383
+2022:01:19,12:37:12,Determinant of when to do an airport run, for short,eta,ETA,True,203
+2022:01:19,12:37:29,Pennsylvania's Flagship City,,ERIE,False,283
+2022:01:19,12:37:38,Yalie,,ELI,False,118
+2022:01:19,12:37:41,One of the Mannings,eli,ELI,True,102
+2022:01:19,12:37:46,Giant Manning,eli,ELI,True,176
+2022:01:19,12:37:48,Giant Manning,eli,ELI,True,176
+2022:01:19,12:38:06,"Exodus" hero,,ARI,False,630
+2022:01:19,12:38:10,Rock producer Brian,eno,ENO,True,485
+2022:01:19,12:38:46,___ de Janeiro,rio,RIO,True,1443
+2022:01:19,12:38:50,___ de Janeiro,rio,RIO,True,1442
+2022:01:19,12:39:10,Material in protein synthesis,,RNA,False,1066
+2022:01:19,12:39:21,PT boat officer: Abbr.,,ENS,False,1168
+2022:01:19,12:39:23,Greek H,eta,ETA,True,191
+2022:01:19,12:39:33,Sault ___ Marie, Mich,,STE,False,1525
+2022:01:19,12:39:42,Ginger ___,,ALE,False,1662
+2022:01:19,12:39:48,H as in Heracles,eta,ETA,True,219
+2022:01:19,12:39:57,Word between two last names,nee,NEE,True,958
+2022:01:19,12:40:06,English novelist Radcliffe,eli,ANN,False,1943
+2022:01:19,12:40:44,Daniels who directed "The Butler",eli,LEE,False,1816
+2022:01:19,12:40:51,South America's ___ Negro,,RIO,False,1515
+2022:01:19,12:40:56,2014 World Cup city,rio,RIO,True,1448
+2022:01:19,12:41:00,Pitcher's stat,era,ERA,True,343
+2022:01:19,12:41:08,When the French toast?,ete,ETE,True,572
+2022:01:19,12:49:15,Its entrance was barred with a flaming sword,,EDEN,False,844
+2022:01:19,12:49:21,Letter after pi,eta,RHO,False,2584
+2022:01:19,12:49:32,Toby filler,,ALE,False,1576
+2022:01:19,12:49:40,Filmdom's "Norma ___",,RAE,False,1780
+2022:01:19,12:49:46,Bobby who won three straight N.H.L,hull,ORR,False,2041
+2022:01:19,12:49:54,Literary title character from the planet Antiterra,,ADA,False,2116
+2022:01:19,12:49:56,Summer in Québec,ete,ETE,True,564
+2022:01:19,12:50:04,"Norma ___" (Sally Field film),,RAE,False,1808
+2022:01:19,12:50:09,Word after ginger or brown,ale,ALE,True,1551
+2022:01:19,12:50:12,Hockey's Bobby,orr,ORR,True,2009
+2022:01:19,12:51:31,Bank inits,,IRA,False,441
+2022:01:19,12:51:40,Diva's delivery,,ARIA,False,691
+2022:01:19,12:51:47,Norway's capital,oslo,OSLO,True,1115
+2022:01:19,12:52:26,"The Book of ___" (2010 film),,ELI,False,138
+2022:01:19,12:52:30,"Revolution 9" collaborator,,ONO,False,1607
+2022:01:19,12:52:34,McKellen of "X-Men",ian,IAN,True,2522
+2022:01:19,12:52:41,Automne preceder,ete,ETE,True,575
+2022:01:19,12:52:50,"Stand and fight" grp,,NRA,False,1719
+2022:01:19,12:53:04,New York's ___ Canal,erie,ERIE,True,300
+2022:01:19,12:53:28,God with a quiver,,EROS,False,1029
+2022:01:19,12:53:32,Reagan-___,era,ERA,True,363
+2022:01:19,12:53:37,"The Book of ___" (2010 film),eli,ELI,True,138
+2022:01:19,12:53:53,"Third Uncle" singer,,ENO,False,487
+2022:01:19,12:54:01,High priest of Shiloh,,ELI,False,156
+2022:01:19,12:54:10,Olympic sword,,EPEE,False,1598
+2022:01:19,12:54:24,___ king,,A LA,False,2412
+2022:01:19,12:54:38,Reconstruction, for one,,ERA,False,391
+2022:01:19,12:54:41,Giant Manning,eli,ELI,True,164
+2022:01:19,13:00:02,Subj,,ESP,False,1329
+2022:01:19,13:00:07,Thurman of "Pulp Fiction",,UMA,False,2952
+2022:01:19,13:15:54,Many an August birth,,LEO,False,2852
+2022:01:19,13:16:15,Cookie ingredient in dirt cake,,OREO,False,2222
+2022:01:19,13:16:25,Love child?,,EROS,False,1013
+2022:01:19,13:16:30,Avian source of red meat,,EMU,False,1769
+2022:01:19,13:16:39,Follower of Formula or Air Force,one,ONE,True,2248
+2022:01:19,13:30:38,Gift upon arrival, maybe,,LEI,False,2342
+2022:01:19,13:31:27,Two out of nine?,,ENS,False,1071
+2022:01:19,13:31:32,Ice cream flavor,oreo,OREO,True,2304
+2022:01:19,13:31:39,Poker game?,,EPEE,False,1652
+2022:01:19,13:32:24,Psychedelic drug,,LSD,False,1924
+2022:01:19,13:32:30,Bob Marley's "___ Love",,ONE,False,2213
+2022:01:19,13:32:33,Bobby on the ice,orr,ORR,True,2021
+2022:01:19,13:32:46,Juillet's season,,ETE,False,563
